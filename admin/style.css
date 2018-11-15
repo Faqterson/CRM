@@ -1,0 +1,108 @@
+
+
+#gradient-style-login {
+        margin:0px;padding:0px;
+        width:400px;
+        border:1px solid #CDCDCD;
+		box-shadow: 3px 3px 5px #666666;
+		margin: 0px auto;
+		font-family: Verdana; 
+		font-size:60%;
+
+        -moz-border-radius-bottomleft:5px;
+        -webkit-border-bottom-left-radius:5px;
+        border-bottom-left-radius:5px;
+
+        -moz-border-radius-bottomright:5px;
+        -webkit-border-bottom-right-radius:5px;
+        border-bottom-right-radius:5px;
+
+        -moz-border-radius-topright:5px;
+        -webkit-border-top-right-radius:5px;
+        border-top-right-radius:5px;
+
+        -moz-border-radius-topleft:5px;
+        -webkit-border-top-left-radius:5px;
+        border-top-left-radius:5px;
+
+		overflow:hidden;
+}
+
+
+#gradient-style {
+        margin:0px;padding:0px;
+        width:900px;
+        border:1px solid #CDCDCD;
+		box-shadow: 3px 3px 5px #666666;
+		margin: 0px auto;
+		font-family: Verdana; 
+		font-size:60%;
+
+        -moz-border-radius-bottomleft:5px;
+        -webkit-border-bottom-left-radius:5px;
+        border-bottom-left-radius:5px;
+
+        -moz-border-radius-bottomright:5px;
+        -webkit-border-bottom-right-radius:5px;
+        border-bottom-right-radius:5px;
+
+        -moz-border-radius-topright:5px;
+        -webkit-border-top-right-radius:5px;
+        border-top-right-radius:5px;
+
+        -moz-border-radius-topleft:5px;
+        -webkit-border-top-left-radius:5px;
+        border-top-left-radius:5px;
+
+		overflow:hidden;
+}
+
+#gradient-style tbody tr:hover td
+{
+	background: #006;
+	color: #FFF;
+}
+
+
+#menutable{
+        margin:0px;padding:0px;
+        width:900px;
+		margin: 0px auto;
+		font-family: Verdana; 
+		overflow:hidden;
+		font-size:60%;
+}
+
+input[type="button"], input[type="submit"]{
+    background: #000055;
+    height: 24px;
+    background-repeat: repeat-x;
+    color: #EEEEEE;    
+    font-weight: bold;
+    display: inline-block;    
+    text-decoration: none;
+    border-width: 1px;
+    padding: 0 15px 4px;
+    margin: 0;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.2);
+    -moz-box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+    -webkit-box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color=#999999,direction=135,strength=2);
+    cursor: pointer;
+    position: relative;
+    border-color: #000055;
+    background-image: url(table-images/bg_lite.png);
+    border-radius: 5px;
+    text-align: center;
+}
+select {
+  font-family: Verdana;
+  font-size: 10px;
+}
+input[type="text"] {
+    width: 150px;
+    font-family: Verdana; 
+	font-size: 10px;
+}
